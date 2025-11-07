@@ -1,6 +1,6 @@
 # 🌟 Momo — Voice Assistant Landing Page
 
-![Momo Logo](A_flat-style_digital_illustration_features_an_anth.png)
+![Momo Logo](momo-logo.png)
 
 **Momo** is a friendly, privacy-conscious **AI voice companion** that helps users interact naturally through speech — whether it's answering questions, fetching real-time information, or providing weather insights.
 
@@ -111,7 +111,7 @@ To deploy online:
 
 **Dev Prasad**  
 📧 [mr.devprasad2004@gmail.com](mailto:mr.devprasad2004@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com) (add your actual link)  
+💼 [LinkedIn](www.linkedin.com/in/prasad-dev) (add your actual link)  
 
 ---
 
