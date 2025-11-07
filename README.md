@@ -45,16 +45,16 @@ The project includes an original AI-generated mascot that represents Momo — a 
 ## 📸 Website Screenshots
 
 ### 1️⃣ Hero Section
-![Hero Section](7fbe7dee-373e-47e2-bef6-7b933d46f512.png)
+![Hero Section](hero_section.png)
 
 ### 2️⃣ Features Section
-![Features Section](71eb52ba-b420-43ec-b5a9-ca8538d7b4d4.png)
+![Features Section](features.png)
 
 ### 3️⃣ Complete Layout
-![Full Layout](167826c8-6ac7-4a60-8dd3-d13a755015b1.png)
+![Full Layout](full_layout.png)
 
 ### 4️⃣ Supabase Integration
-![Supabase Table Screenshot](defbdfa3-ca0a-4e49-8cd1-0dd61c9d8923.png)
+![Supabase Table Screenshot](waitlist.png)
 
 ---
 
