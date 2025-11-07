@@ -1,6 +1,6 @@
 # 🌟 Momo — Voice Assistant Landing Page
 
-![Momo Logo](momo-logo.png)
+![Momo Logo](brand.png)
 
 **Momo** is a friendly, privacy-conscious **AI voice companion** that helps users interact naturally through speech — whether it's answering questions, fetching real-time information, or providing weather insights.
 
@@ -38,7 +38,7 @@ Momo’s landing page is a **clean, modern, light-mode website** that introduces
 
 The project includes an original AI-generated mascot that represents Momo — a cute, minimalist assistant designed in a soft blue-green palette to reflect approachability and intelligence.
 
-![Momo Assistant Illustration](A_flat-style_digital_illustration_features_an_anth.png)
+![Momo Assistant Illustration](momo-logo.png)
 
 ---
 
