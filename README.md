@@ -111,7 +111,7 @@ To deploy online:
 
 **Dev Prasad**  
 📧 [mr.devprasad2004@gmail.com](mailto:mr.devprasad2004@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/prasad-dev) (add your actual link)  
+💼 [LinkedIn](www.linkedin.com/in/prasad-dev)
 
 ---
 
